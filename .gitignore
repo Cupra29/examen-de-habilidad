@@ -1,0 +1,5 @@
+# Archivo .env con variables de entorno
+.env
+
+# Carpeta node_modules
+node_modules/
